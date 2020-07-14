@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71846" started-at="2020-07-12T00:35:46 IST" finished-at="2020-07-12T00:36:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71846" started-at="2020-07-12T00:35:46 IST" finished-at="2020-07-12T00:36:57 IST">
+      <class name="Testing.TravelSite.mainPage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Testing.TravelSite.mainPage@10d68fcd]" name="initialize" is-config="true" duration-ms="12628" started-at="2020-07-12T00:35:46 IST" finished-at="2020-07-12T00:35:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Testingabc()[pri:0, instance:Testing.TravelSite.mainPage@10d68fcd]" name="Testingabc" duration-ms="59060" started-at="2020-07-12T00:35:58 IST" finished-at="2020-07-12T00:36:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testingabc -->
+      </class> <!-- Testing.TravelSite.mainPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
